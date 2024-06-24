@@ -1,6 +1,6 @@
 ```js
 name: Henry Félix-Faure
-located_in: France(Lille)
+located_in: France(LILLE)
 studying: Engineering
 school: ISEN(Lille)
 
